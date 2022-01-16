@@ -1,6 +1,6 @@
 # ncnn 小板子
 
-* The benchmark score is the inference time, less is better.
+* The benchmark score is the inference time, **less is better**.
 * Runs on all cpu big cores, and fp16 arithmetic is enabled if supported.
 * Table contents are ordered by mobilenet.
 
