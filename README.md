@@ -1,5 +1,9 @@
 # ncnn 小板子
 
+* The benchmark score is the inference time, less is better.
+* Runs on all cpu big cores, and fp16 arithmetic is enabled if supported.
+* Table contents are ordered by mobilenet.
+
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
