@@ -7,3 +7,4 @@
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|93.48|111.72|63.71|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |PICO-PI-IMX7|![](/images/pico.jpg)|i.MX7D<br /><br />A7 1.0GHz x 2|220.10|366.92|137.02|
+|NeZha D1|![](/images/nezhad1.jpg)|D1 C906<br /><br />RV64GCV 1GHz x 1|408.03|731.92|466.21|
