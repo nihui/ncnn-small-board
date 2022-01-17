@@ -1,13 +1,14 @@
 # ncnn 小板子
 
 * The benchmark score is the inference time, **less is better**.
-* Runs on all cpu big cores, and fp16 arithmetic is enabled if supported.
+* Runs on all cpu big cores or vulkan, and fp16 arithmetic is enabled if supported.
 * Table contents are ordered by mobilenet.
 
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
+|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
-|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|35.56|38.39|34.39|
+|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|58.38|71.59|37.93|
