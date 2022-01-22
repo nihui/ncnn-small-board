@@ -3,9 +3,11 @@
 * The benchmark score is the inference time, **less is better**.
 * Runs on all cpu big cores or vulkan, and fp16 arithmetic is enabled if supported.
 * Table contents are ordered by mobilenet.
+* Rock5B data from https://forum.radxa.com/t/rock5-android12-bringup-status-update/8506/17
 
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
+|Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|10.75|11.60|11.36|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
