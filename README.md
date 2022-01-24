@@ -1,6 +1,8 @@
 # ncnn 小板子
 
-ncnn is a high-performance neural network inference framework ---> see https://github.com/Tencent/ncnn for more info
+ncnn is a high-performance neural network inference framework.
+
+See https://github.com/Tencent/ncnn for more info about ncnn.
 
 * The benchmark score is the inference time, **less is better**.
 * Runs on all cpu big cores or vulkan, and fp16 arithmetic is enabled if supported.
