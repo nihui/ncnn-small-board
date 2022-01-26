@@ -19,8 +19,10 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|58.38|71.59|37.93|
 |NanoPi R2S|![](/images/nanopir2s.jpg)|RK3328<br /><br />A53 1.3GHz x 4|62.20|82.88|52.34|
+|Tinker Board S R2.0|![](/images/tinkersr2.jpg)|RK3288CGW<br /><br />A17 1.8GHz x 4|56.32|83.56|35.96|
 |EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|68.97|90.87|48.22|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|93.48|111.72|63.71|
+|Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|77.07|124.55|62.01|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Banana Pi M2 Zero 2|![](/images/bananaz2.jpg)|AllWinner H2+<br /><br />A7 1.2GHz x 4|230.97|327.65|147.97|
