@@ -14,6 +14,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|10.75|11.60|11.36|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
+|NanoPi M4|![](/images/nanopim4.jpg)|ARM Mali-T864|38.89|41.55|41.54|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
