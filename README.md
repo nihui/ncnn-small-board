@@ -13,6 +13,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |---|---|---|---|---|---|
 |Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|9.38|11.97|8.02|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
+|Unisoc Tiger T710| |Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4|16.25|20.31|10.59|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Intel HD Graphics (Cherry Trail) 500 MHz|29.91|36.41|24.54|
 |NanoPi M4|![](/images/nanopim4.jpg)|ARM Mali-T864|38.89|41.55|41.54|
