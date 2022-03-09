@@ -21,6 +21,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
+|Radxa Zero||S905Y2<br /><br />A53 1.8GHz x 4|51.92|66.12|37.15|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|58.38|71.59|37.93|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Atom x5-Z8350<br /><br />x86-64 1.92 GHz x 4|50.22|80.12|37.96|
 |NanoPi R2S|![](/images/nanopir2s.jpg)|RK3328<br /><br />A53 1.3GHz x 4|62.20|82.88|52.34|
@@ -28,6 +29,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|68.97|90.87|48.22|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|93.48|111.72|63.71|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|77.07|124.55|62.01|
+|Radxa Zero||ARM Mali-G31 850 MHz x 2|79.32|133.96|64.68|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Banana Pi M2 Zero 2|![](/images/bananaz2.jpg)|AllWinner H2+<br /><br />A7 1.2GHz x 4|230.97|327.65|147.97|
