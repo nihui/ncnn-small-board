@@ -11,6 +11,8 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
+|NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|Ampere 1.3GHz x 2048<br /><br />Tensor Core x 64|2.13|2.03|2.57|
+|NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|A78AE 2.2GHz x 12|3.50|3.49|5.08|
 |Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|9.38|11.97|8.02|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
 |Unisoc Tiger T710|![](/images/unisoct710.jpg)|Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4|16.25|20.31|10.59|
