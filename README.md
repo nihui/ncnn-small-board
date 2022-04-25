@@ -39,3 +39,5 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |PICO-PI-IMX7|![](/images/pico.jpg)|i.MX7D<br /><br />A7 1.0GHz x 2|220.10|366.92|137.02|
 |Microphase Z7-Lite|![](/images/z7lite.jpg)|XC7Z020CLG400<br /><br />A9 766MHz x 2|389.18|623.71|212.20|
 |NeZha D1|![](/images/nezhad1.jpg)|D1 C906<br /><br />RV64GCV 1GHz x 1|408.03|731.92|466.21|
+|StarFive VisionFive V1|![](/images/visionfivev1.jpg)|SiFive’s U74<br /><br />RV64GFC 1.5GHz x 2|1783.74|2289.63|665.10|
+|Raspberry Pi 1B|![](/images/rasp1b.jpg)|ARM1176JZF-S<br /><br />700MHz x 1|38957.64|85496.75|16750.39|
