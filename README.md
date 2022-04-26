@@ -26,6 +26,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
 |Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|51.92|66.12|37.15|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|58.38|71.59|37.93|
+|NanoPi K2|![](/images/nanopik2.jpg)|S905<br /><br />A53 1.5GHz x 4|56.96|75.25|38.70|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Atom x5-Z8350<br /><br />x86-64 1.92 GHz x 4|50.22|80.12|37.96|
 |NanoPi R2S|![](/images/nanopir2s.jpg)|RK3328<br /><br />A53 1.3GHz x 4|62.20|82.88|52.34|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|RK3288CGW<br /><br />A17 1.8GHz x 4|56.32|83.56|35.96|
