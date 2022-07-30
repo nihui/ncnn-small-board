@@ -36,6 +36,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Radxa Zero|![](/images/radxazero.jpg)|ARM Mali-G31 850 MHz x 2|55.29|98.45|52.24|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|93.48|111.72|63.71|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
+|EASY EAI Nano||RV1126<br /><br />A7 1.5GHz x 4|105.16|163.82|68.79|
 |RVB-ICE|![](/images/ice.jpg)|T-Head C910<br /><br />RV64GC 1.2GHz x 2|161.10|274.39|118.61|
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Ingenic X2000||Ingenic X2000<br /><br />XBurst2 1.2GHz x 2|175.99|282.25|118.4|
