@@ -24,6 +24,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Radxa RockPi X|![](/images/rockpix.jpg)|Intel HD Graphics (Cherry Trail) 500 MHz|29.91|36.41|24.54|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
+|NanoPi M3||S5P6818<br /><br />A53 1.4GHz x 8|46.99|54.12|35.50|
 |Odroid XU4||Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
 |Debix Model A||i.MX8M Plus<br /><br />A53 1.6GHz x 4|44.60|59.50|30.34|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.78|62.67|56.83|
