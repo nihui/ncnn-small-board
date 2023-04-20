@@ -16,13 +16,13 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|4.21|5.75|4.39|
 |ZYSJ RK3588| |ARM Mali-G610|7.09|9.16|5.88|
 |ZYSJ RK3588| |RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|7.57|11.01|7.95|
-|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|12.00|16.03|14.23|
+|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|9.03|15.39|10.61|
 |Unisoc Tiger T710|![](/images/unisoct710.jpg)|Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4|16.25|20.31|10.59|
 |Khadas VIM3|![](/images/vim3.jpg)|ARM Mali-G52|19.54|31.62|17.91|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
 |NanoPi M4|![](/images/nanopim4.jpg)|ARM Mali-T864|24.57|35.86|33.90|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Intel HD Graphics (Cherry Trail) 500 MHz|29.91|36.41|24.54|
-|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|30.03|41.74|21.07|
+|NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|28.55|40.25|19.44|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |NanoPi M3||S5P6818<br /><br />A53 1.4GHz x 8|46.99|54.12|35.50|
 |Odroid XU4||Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
