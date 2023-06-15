@@ -27,8 +27,8 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |NanoPi M3||S5P6818<br /><br />A53 1.4GHz x 8|46.99|54.12|35.50|
 |Odroid XU4||Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
 |Debix Model A||i.MX8M Plus<br /><br />A53 1.6GHz x 4|44.60|59.50|30.34|
+|Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|46.28|60.74|32.91|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.78|62.67|56.83|
-|Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|51.93|62.97|34.52|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
 |Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|51.92|66.12|37.15|
 |NanoPi K2|![](/images/nanopik2.jpg)|S905<br /><br />A53 1.5GHz x 4|56.96|75.25|38.70|
@@ -44,8 +44,8 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Ingenic X2000||Ingenic X2000<br /><br />XBurst2 1.2GHz x 2|175.99|282.25|118.4|
 |Banana Pi M2 Zero 2|![](/images/bananaz2.jpg)|AllWinner H2+<br /><br />A7 1.2GHz x 4|220.55|307.20|138.77|
-|Raspberry Pi 4B|![](/images/rasp4b.jpg)|Broadcom VideoCore VI|308.47|345.16|143.88|
 |Raspberry Pi 2B|![](/images/rasp2b.jpg)|BCM2836<br /><br />A7 900MHz x 4|221.84|346.58|141.40|
+|Raspberry Pi 4B|![](/images/rasp4b.jpg)|Broadcom VideoCore VI|286.71|365.04|162.14|
 |PICO-PI-IMX7|![](/images/pico.jpg)|i.MX7D<br /><br />A7 1.0GHz x 2|220.10|366.92|137.02|
 |Microphase Z7-Lite|![](/images/z7lite.jpg)|XC7Z020CLG400<br /><br />A9 766MHz x 2|389.18|623.71|212.20|
 |MangoPI MQ-Pro|![](/images/mq-pro.jpg)|D1 C906<br /><br />RV64GCV 1GHz x 1|385.21|691.47|487.67|
