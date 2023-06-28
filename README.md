@@ -20,7 +20,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Unisoc Tiger T710|![](/images/unisoct710.jpg)|Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4|16.25|20.31|10.59|
 |Khadas VIM4|![](/images/vim4.jpg)|ARM Mali-G52<br /><br />800MHz x MP8(8EE)|12.77|20.17|12.81|
 |Khadas VIM3|![](/images/vim3.jpg)|ARM Mali-G52<br /><br />800MHz x MP4(6EE)|19.54|31.62|17.91|
-|Khadas VIM4|![](/images/vim4.jpg)|ARM Mali-G52<br /><br />800MHz x MP8(8EE)|24.27|37.65|19.79|
+|Khadas VIM4|![](/images/vim4.jpg)|A311D2<br /><br />A73 2.2GHz x 4<br />A53 2.0GHz x 2|24.27|37.65|19.79|
 |Radxa Rock3A|![](/images/rock3a.jpg)|RK3568<br /><br />A55 2.0GHz x 4|29.52|34.47|23.62|
 |NanoPi M4|![](/images/nanopim4.jpg)|ARM Mali-T864|24.57|35.86|33.90|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Intel HD Graphics (Cherry Trail) 500 MHz|29.91|36.41|24.54|
