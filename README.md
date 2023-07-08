@@ -29,8 +29,8 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|28.55|40.25|19.44|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
 |NanoPi Fire3|![](/images/nanopifire3.jpg)|S5P6818<br /><br />A53 1.4GHz x 8|41.81|52.33|33.54|
+|Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|40.15|54.01|29.33|
 |Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
-|Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|44.60|59.50|30.34|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|46.28|60.74|32.91|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.78|62.67|56.83|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
