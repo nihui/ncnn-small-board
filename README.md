@@ -43,6 +43,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|84.74|107.84|58.38|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
 |EASY EAI Nano|![](/images/easyeainano.jpg)|RV1126<br /><br />A7 1.5GHz x 4|105.16|163.82|68.79|
+|StarFive VisionFive V2|![](/images/visionfivev2.jpg)|SiFive’s U74<br /><br />RV64GFC 1.5GHz x 4|150.07|256.21|91.14|
 |RVB-ICE|![](/images/ice.jpg)|T-Head C910<br /><br />RV64GC 1.2GHz x 2|161.10|274.39|118.61|
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Ingenic X2000||Ingenic X2000<br /><br />XBurst2 1.2GHz x 2|175.99|282.25|118.4|
