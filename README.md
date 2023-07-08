@@ -42,6 +42,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|68.97|90.87|48.22|
 |Radxa Zero|![](/images/radxazero.jpg)|ARM Mali-G31 850 MHz x 2|55.29|98.45|52.24|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|84.74|107.84|58.38|
+|MangoPI MQ-Quad|![](/images/mq-quad.jpg)|AllWinner H616<br /><br />A53 1.5GHz x 4|99.60|129.70|66.90|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
 |EASY EAI Nano|![](/images/easyeainano.jpg)|RV1126<br /><br />A7 1.5GHz x 4|105.16|163.82|68.79|
 |StarFive VisionFive V2|![](/images/visionfivev2.jpg)|SiFive’s U74<br /><br />RV64GFC 1.5GHz x 4|150.07|256.21|91.14|
