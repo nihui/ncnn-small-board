@@ -28,6 +28,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Khadas VIM4|![](/images/vim4.jpg)|A311D2<br /><br />A73 2.2GHz x 4<br />A53 2.0GHz x 2|24.27|37.65|19.79|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|28.55|40.25|19.44|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
+|Lichee Pi 4A|![](/images/lp4a.jpg)|T-Head TH1520<br /><br />RV64GCV 2.0GHz x 4|42.29|47.73|120.13|
 |NanoPi Fire3|![](/images/nanopifire3.jpg)|S5P6818<br /><br />A53 1.4GHz x 8|41.81|52.33|33.54|
 |Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|40.15|54.01|29.33|
 |Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
