@@ -46,12 +46,12 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |RVB-ICE|![](/images/ice.jpg)|T-Head C910<br /><br />RV64GC 1.2GHz x 2|161.10|274.39|118.61|
 |Loongson Pie Lite|![](/images/ls2k.jpg)|Loongson 2K1000<br /><br />GS264 1.0GHz x 2|185.28|276.03|124.39|
 |Ingenic X2000||Ingenic X2000<br /><br />XBurst2 1.2GHz x 2|175.99|282.25|118.4|
-|Raspberry Pi 2B|![](/images/rasp2b.jpg)|BCM2836<br /><br />A7 900MHz x 4|179.56|297.55|131.78|
-|Banana Pi M2 Zero 2|![](/images/bananaz2.jpg)|AllWinner H2+<br /><br />A7 1.2GHz x 4|220.55|307.20|138.77|
+|Raspberry Pi 2B|![](/images/rasp2b.jpg)|BCM2836<br /><br />A7 900MHz x 4|179.50|296.97|132.49|
+|Banana Pi M2 Zero 2|![](/images/bananaz2.jpg)|AllWinner H2+<br /><br />A7 1.2GHz x 4|218.73|303.92|138.43|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|Broadcom VideoCore VI|286.71|365.04|162.14|
 |PICO-PI-IMX7|![](/images/pico.jpg)|i.MX7D<br /><br />A7 1.0GHz x 2|220.10|366.92|137.02|
 |Microphase Z7-Lite|![](/images/z7lite.jpg)|XC7Z020CLG400<br /><br />A9 766MHz x 2|389.18|623.71|212.20|
 |MangoPI MQ-Pro|![](/images/mq-pro.jpg)|D1 C906<br /><br />RV64GCV 1GHz x 1|385.21|691.47|487.67|
 |NeZha D1|![](/images/nezhad1.jpg)|D1 C906<br /><br />RV64GCV 1GHz x 1|396.18|727.97|495.87|
 |StarFive VisionFive V1|![](/images/visionfivev1.jpg)|SiFive’s U74<br /><br />RV64GFC 1.5GHz x 2|609.41|993.87|358.98|
-|Raspberry Pi 1B|![](/images/rasp1b.jpg)|ARM1176JZF-S<br /><br />700MHz x 1|38957.64|85496.75|16750.39|
+|Raspberry Pi B+|![](/images/raspbp.jpg)|ARM1176JZF-S<br /><br />700MHz x 1|4646.13|8239.03|2141.68|
