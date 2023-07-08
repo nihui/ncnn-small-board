@@ -13,6 +13,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |---|---|---|---|---|---|
 |NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|Ampere 1.3GHz x 2048<br /><br />Tensor Core x 64|2.13|2.03|2.57|
 |NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|A78AE 2.2GHz x 12|3.50|3.49|5.08|
+|Orangepi5||RK3588S<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|3.83|5.75|3.57|
 |Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|4.21|5.75|4.39|
 |ZYSJ RK3588| |ARM Mali-G610|7.09|9.16|5.88|
 |ZYSJ RK3588| |RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|7.57|11.01|7.95|
