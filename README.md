@@ -26,13 +26,13 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Khadas VIM4|![](/images/vim4.jpg)|A311D2<br /><br />A73 2.2GHz x 4<br />A53 2.0GHz x 2|24.27|37.65|19.79|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|A57 1.43GHz x 4|28.55|40.25|19.44|
 |Khadas VIM3|![](/images/vim3.jpg)|A311D<br /><br />A73 2.2GHz x 4<br />A53 1.8GHz x 2|30.98|42.57|21.62|
-|NanoPi Fire3||S5P6818<br /><br />A53 1.4GHz x 8|41.81|52.33|33.54|
-|Odroid XU4||Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
-|Debix Model A||i.MX8M Plus<br /><br />A53 1.6GHz x 4|44.60|59.50|30.34|
+|NanoPi Fire3|![](/images/nanopifire3.jpg)|S5P6818<br /><br />A53 1.4GHz x 8|41.81|52.33|33.54|
+|Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
+|Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|44.60|59.50|30.34|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|46.28|60.74|32.91|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.78|62.67|56.83|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
-|BeagleBone AI 64||TDA4VM<br /><br />A72 2.0GHz x 2|42.23|65.78|29.97|
+|BeagleBone AI 64|![](/images/bbai64.jpg)|TDA4VM<br /><br />A72 2.0GHz x 2|42.23|65.78|29.97|
 |Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|51.92|66.12|37.15|
 |NanoPi K2|![](/images/nanopik2.jpg)|S905<br /><br />A53 1.5GHz x 4|56.96|75.25|38.70|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Atom x5-Z8350<br /><br />x86-64 1.92 GHz x 4|50.22|80.12|37.96|
