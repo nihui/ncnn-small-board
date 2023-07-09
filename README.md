@@ -33,16 +33,16 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|40.15|54.01|29.33|
 |Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.48|60.28|55.87|
+|Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|46.82|60.49|35.18|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|46.28|60.74|32.91|
 |NanoPi M4|![](/images/nanopim4.jpg)|RK3399<br /><br />A72 1.8GHz x 2<br />A53 1.5GHz x 4|43.73|64.28|27.43|
 |BeagleBone AI 64|![](/images/bbai64.jpg)|TDA4VM<br /><br />A72 2.0GHz x 2|42.23|65.78|29.97|
-|Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|51.92|66.12|37.15|
 |NanoPi K2|![](/images/nanopik2.jpg)|S905<br /><br />A53 1.5GHz x 4|56.96|75.25|38.70|
 |Radxa RockPi X|![](/images/rockpix.jpg)|Atom x5-Z8350<br /><br />x86-64 1.92 GHz x 4|50.22|80.12|37.96|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|RK3288CGW<br /><br />A17 1.8GHz x 4|52.86|82.19|38.17|
 |NanoPi R2S|![](/images/nanopir2s.jpg)|RK3328<br /><br />A53 1.3GHz x 4|62.20|82.88|52.34|
 |EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|68.97|90.87|48.22|
-|Radxa Zero|![](/images/radxazero.jpg)|ARM Mali-G31 850 MHz x 2|55.29|98.45|52.24|
+|Radxa Zero|![](/images/radxazero.jpg)|ARM Mali-G31 850 MHz x 2|57.95|98.62|51.71|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|84.74|107.84|58.38|
 |MangoPI MQ-Quad|![](/images/mq-quad.jpg)|AllWinner H616<br /><br />A53 1.5GHz x 4|99.60|129.70|66.90|
 |Raspberry Pi Zero 2W|![](/images/raspz2.jpg)|BCM2710A1<br /><br />A53 1.0GHz x 4|119.52|162.60|72.72|
