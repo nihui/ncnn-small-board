@@ -41,7 +41,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Radxa RockPi X|![](/images/rockpix.jpg)|Atom x5-Z8350<br /><br />x86-64 1.92 GHz x 4|50.22|80.12|37.96|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|RK3288CGW<br /><br />A17 1.8GHz x 4|52.86|82.19|38.17|
 |NanoPi R2S|![](/images/nanopir2s.jpg)|RK3328<br /><br />A53 1.3GHz x 4|62.20|82.88|52.34|
-|EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|68.97|90.87|48.22|
+|EAIDK 310|![](/images/eaidk310.jpg)|RK3228H<br /><br />A53 1.3GHz x 4|61.87|83.88|45.83|
 |Radxa Zero|![](/images/radxazero.jpg)|ARM Mali-G31 850 MHz x 2|57.95|98.62|51.71|
 |Raspberry Pi 3B+|![](/images/rasp3b.jpg)|BCM2837B0<br /><br />A53 1.4GHz x 4|84.74|107.84|58.38|
 |MangoPI MQ-Quad|![](/images/mq-quad.jpg)|AllWinner H616<br /><br />A53 1.5GHz x 4|99.60|129.70|66.90|
