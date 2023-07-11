@@ -31,7 +31,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Lichee Pi 4A|![](/images/lp4a.jpg)|T-Head TH1520<br /><br />RV64GCV 2.0GHz x 4|42.29|47.73|120.13|
 |NanoPi Fire3|![](/images/nanopifire3.jpg)|S5P6818<br /><br />A53 1.4GHz x 8|41.81|52.33|33.54|
 |Debix Model A|![](/images/debixmodela.jpg)|i.MX8M Plus<br /><br />A53 1.6GHz x 4|40.15|54.01|29.33|
-|Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|41.42|55.91|23.12|
+|Odroid XU4|![](/images/odroidxu4.jpg)|Exynos 5422<br /><br />A15 2GHz x 4<br />A7 1.3GHz x 4|35.73|54.17|25.75|
 |Tinker Board S R2.0|![](/images/tinkersr2.jpg)|ARM Mali-T764|41.48|60.28|55.87|
 |Radxa Zero|![](/images/radxazero.jpg)|S905Y2<br /><br />A53 1.8GHz x 4|46.82|60.49|35.18|
 |Raspberry Pi 4B|![](/images/rasp4b.jpg)|BCM2711B0<br /><br />A72 1.5GHz x 4|46.28|60.74|32.91|
