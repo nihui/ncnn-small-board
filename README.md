@@ -7,14 +7,13 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 * The benchmark score is the inference time, **less is better**.
 * Runs on all cpu big cores or vulkan, and fp16 arithmetic is enabled if supported.
 * Table contents are ordered by mobilenet.
-* Rock5B data from https://forum.radxa.com/t/rock5-android12-bringup-status-update/8506/17
 
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
 |NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|Ampere 1.3GHz x 2048<br /><br />Tensor Core x 64|2.13|2.03|2.57|
 |NVIDIA Jetson AGX Orin|![](/images/jetsonagxorin.jpg)|A78AE 2.2GHz x 12|3.50|3.49|5.08|
+|Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|3.65|5.41|3.37|
 |Orange Pi 5|![](/images/opi5.jpg)|RK3588S<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|3.83|5.75|3.57|
-|Radxa Rock5B|![](/images/rock5b.jpg)|RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|4.21|5.75|4.39|
 |ZYSJ RK3588| |ARM Mali-G610|7.09|9.16|5.88|
 |ZYSJ RK3588| |RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|7.57|11.01|7.95|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|9.03|15.39|10.61|
