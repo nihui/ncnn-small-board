@@ -7,6 +7,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 * The benchmark score is the inference time, **less is better**.
 * Runs on all cpu big cores or vulkan, and fp16 arithmetic is enabled if supported.
 * Table contents are ordered by mobilenet.
+* rpi5b data from https://github.com/Tencent/ncnn/pull/5058
 
 |small-board|image|spec|squeezenet|mobilenet|shufflenet|
 |---|---|---|---|---|---|
@@ -16,6 +17,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 |Orange Pi 5|![](/images/opi5.jpg)|RK3588S<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|3.83|5.75|3.57|
 |ZYSJ RK3588| |ARM Mali-G610|7.09|9.16|5.88|
 |ZYSJ RK3588| |RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4|7.57|11.01|7.95|
+|Raspberry Pi 5B||BCM2712<br /><br />A76 2.4GHz x 4|8.56|11.32|4.56|
 |NVIDIA Jetson Nano|![](/images/jetsonnano.jpg)|Maxwell 921MHz x 128|9.03|15.39|10.61|
 |Khadas VIM4|![](/images/vim4.jpg)|ARM Mali-G52<br /><br />800MHz x MP8(8EE)|12.77|20.17|12.81|
 |Unisoc Tiger T710|![](/images/unisoct710.jpg)|Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4|16.25|20.31|10.59|
