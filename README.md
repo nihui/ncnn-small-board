@@ -19,7 +19,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 | ZYSJ RK3588            |                                   | RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4              | 7.57       | 11.01     | 7.95       |
 | Raspberry Pi 5B        |                                   | BCM2712<br /><br />A76 2.4GHz x 4                                 | 8.56       | 11.32     | 4.56       |
 | NVIDIA Jetson Nano     | ![img](/images/jetsonnano.jpg)    | Maxwell 921MHz x 128                                              | 9.03       | 15.39     | 10.61      |
-| M4N DOCK               | ![img](/images/m4ndock.jpg)       | AX650<br /><br />8x A55@1.7Ghz                                    | 4646.13    | 8239.03   | 2141.68    |
+| M4N DOCK               | ![img](/images/m4ndock.jpg)       | AX650<br />8x A55@1.7Ghz                                          | 10.61      | 11.86     | 10.64      |
 | Khadas VIM4            | ![img](/images/vim4.jpg)          | ARM Mali-G52<br /><br />800MHz x MP8(8EE)                         | 12.77      | 20.17     | 12.81      |
 | Unisoc Tiger T710      | ![](/images/unisoct710.jpg)       | Unisoc Tiger T710<br /><br />A75 1.82GHz x 4<br />A55 1.82GHz x 4 | 16.25      | 20.31     | 10.59      |
 | Radxa Rock3A           | ![](/images/rock3a.jpg)           | RK3568<br /><br />A55 2.0GHz x 4                                  | 23.20      | 30.78     | 19.49      |
