@@ -63,5 +63,5 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 | MangoPI MQ-Pro         | ![](/images/mq-pro.jpg)           | D1 C906<br /><br />RV64GCV 1GHz x 1                               | 385.21     | 691.47    | 487.67     |
 | NeZha D1               | ![](/images/nezhad1.jpg)          | D1 C906<br /><br />RV64GCV 1GHz x 1                               | 396.18     | 727.97    | 495.87     |
 | StarFive VisionFive V1 | ![](/images/visionfivev1.jpg)     | SiFive’s U74<br /><br />RV64GFC 1.5GHz x 2                        | 609.41     | 993.87    | 358.98     |
-| Raspberry Pi B+        | ![](/images/raspbp.jpg)           | ARM1176JZF-S<br /><br />700MHz x 1                                | 4646.13    | 8239.03   | 2141.68    |
+| Raspberry Pi B+        | ![](/images/raspbp.jpg)           | ARM1176JZF-S<br /><br />700MHz x 1                                | 4285.24    | 7684.05   | 2102.22    |
 
